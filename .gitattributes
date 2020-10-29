@@ -1,0 +1,9 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+###############################################################################
+
+*         text=auto
+
+*.h       text eol=crlf
+*.cpp     text eol=crlf
+*.txt     text eol=crlf
